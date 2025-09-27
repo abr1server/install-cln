@@ -86,11 +86,3 @@ ls -l /opt/cloudlinux/venv/lib/python3.11/site-packages/xray/internal/
 # Deactivate virtualenv
 deactivate
 echo "Virtualenv deactivated."
-
-
-# ----------------------------------------
-# Step 7: Reboot Server
-# ----------------------------------------
-# reboot Server
-echo "Reboot server..."
-reboot
